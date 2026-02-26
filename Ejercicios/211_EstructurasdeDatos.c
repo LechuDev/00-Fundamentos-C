@@ -1,5 +1,3 @@
-// Imprimir por consola diferentes estructuras de datos: Escribe un programa que cuente hasta el número que indique el usuario y los imprima en la consola separados por una coma, utilizando diferentes estructuras de datos.
-
 #include <stdio.h>
 #include <stdlib.h>
 
